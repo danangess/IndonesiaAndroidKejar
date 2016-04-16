@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">Indonesia Android Kejar</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="date">Today, 2 April</string>
-    <string name="celcius">21<sup>O</sup></string>
-    <string name="farenhait">8<sup>O</sup></string>
     <string name="weather_image">Weather Image</string>
-
+    <string name="action_refresh">Refresh</string>
 </resources>
